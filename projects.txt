@@ -1,0 +1,15 @@
+
+With wireframes:
+ - Green City
+ - Stock Market Game
+
+
+1st Iter:
+
+No pic needed:
+ - Grocery Image Classifier
+
+With pics:
+ - First Person Shooter Unity Game
+ - Poster AI
+ - Place AI
